@@ -25,12 +25,12 @@ body {
 }
 
 /* color adjust part of title */
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
 /* nav bar styling */
-.header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -72,8 +72,8 @@ a{
     margin-left: 20px;
 }
 
-/*  article content position and formatting */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/*  article products content position and formatting */
+.products {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,7 +119,7 @@ a{
 }
 
 /* aside content */
-.benefits > div{
+.benefit-section{
     margin-bottom: 32px;
     color: #ffffff;
 }
